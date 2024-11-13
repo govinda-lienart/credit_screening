@@ -1,1 +1,1 @@
-# credit_screening
+I wrote a basic machine learning script to predict credit approval using a synthetic dataset generated with ChatGPT. Using pandas, NumPy, and scikit-learn, I handled missing data by imputing values, applied one-hot encoding for categorical data, and scaled numeric data. After training a logistic regression model, I evaluated its performance using a confusion matrix. Finally, I tested the model with new client data to predict credit approval based on client-specific information. The project is available on GitHub.
